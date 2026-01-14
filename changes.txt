@@ -36,3 +36,14 @@ For blog.html:
 
     -Professional & Welcoming Tone: Throughout the updated sections, maintained a professional tone while being welcoming and customer-focused.
         ?v=1 when i was done for cache
+
+For uHaul-Center.html: 
+    -Professional & Welcoming Tone: Refined the language throughout to sound more professional while maintaining a welcoming approach to customers.
+
+    -Updated Content:
+
+        -Welcome section now emphasizes their authorized dealer status more professionally
+        -Benefits descriptions are more polished and customer-focused
+        -Safety section heading changed from "It's all About Safety" to "Your Safety is Our Priority"
+        -Call-to-action is more inviting and professional
+    -Address Update: Changed the footer address from 3647 to 3645 South 3rd Street.
