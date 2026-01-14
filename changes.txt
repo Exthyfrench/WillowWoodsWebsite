@@ -1,0 +1,38 @@
+For self-storage.html: 
+    -Correct pricing is 85$ for 10x20 and $65 for 10x10
+        We have 10x20 units for $85/month and 10x10 units for $65/month. Get in touch with our team for details and payment options to get one booked for your storage needs!
+
+    ?v=1 > this is a cache busting paramater 
+
+    -updated the security section to remove "state-of-the-art" and made it more accurate by focusing on the 24-hour video surveillance. I also cleaned up some formatting issues in the list items (removed extra commas, fixed spacing in location names, and removed redundant phrases).
+        on ?v=3 when i was done on 1/14/2026 for self-storage.html
+    -Changed the address from 3647 to 3645 South 3rd Street. > only on the self-storage.html so far
+
+For boats-and-rvs.html:
+    -Correcting "Willowood" to "Willow Wood" throughout
+    -Updating the address from 3647 to 3645
+    -Improving the professional tone and grammar
+    -Updating the security section to accurately reflect 24/7 video surveillance instead of "state-of-the-art" or "gated facilities"
+        ?v=1 when i was done for cache
+
+For contact.html: 
+    -Updated Hours of Operation: Changed from Monday-Friday 9am-5pm, Saturday 9am-4pm, Sunday closed to:
+
+        Monday - Wednesday: 9:00 am - 5:00 pm
+        Thursday - Sunday: 9:00 am - 7:00 pm
+    -Added 24-Hour Access Information: Included "24-Hour Access to Units" in the hours section
+
+    -Improved Professional and Welcoming Tone: Enhanced the "Visit Us" section to be more inviting while maintaining professionalism
+
+    -Updated Address: Changed the footer address from 3647 to 3645 South 3rd Street
+        ?v=1 when i was done for cache
+
+For blog.html:
+    -Security Arrangements Section: Corrected it to accurately reflect your 24-hour video surveillance system, removing references to gates and computerized access. The section now properly emphasizes your security measures.
+
+    -Pricing Section: Updated to reflect your actual pricing structure - 10x20 units for $85/month and 10x10 units for $65/month. Made it more professional and welcoming while removing generic promotional language.
+
+    -Address Update: Changed the footer address from 3647 to 3645 South 3rd Street.
+
+    -Professional & Welcoming Tone: Throughout the updated sections, maintained a professional tone while being welcoming and customer-focused.
+        ?v=1 when i was done for cache
